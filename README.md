@@ -1,4 +1,4 @@
-db(primary)
+db(tertiary)
 This is master commit
 This is master
 This is the commit develop
