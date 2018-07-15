@@ -1,5 +1,4 @@
-Commit A.B
-Commit B
+X
 This is master commit
 This is master
 This is the commit develop
